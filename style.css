@@ -3,8 +3,7 @@
   line-height: 1.6;
 }
 html {
-  background: rgb(0,146,69);
-  background: linear-gradient(90deg, rgba(0,146,69,1) 0%, rgba(252,238,33,1) 100%);
+  background: linear-gradient(90deg, rgba(23,25,26) 0%, rgba(41,43,45) 100%);
 }
 
 body {
@@ -87,7 +86,7 @@ h1:hover {
 }
 
 #button1:hover {
-  transform: scale(1.1);
+  transform: scale(1.2);
 }
 
 #button2 {
@@ -98,7 +97,7 @@ h1:hover {
 }
 
 #button2:hover {
-  transform: scale(1.1);
+  transform: scale(1.2);
 }
 
 #button3 {
@@ -109,7 +108,7 @@ h1:hover {
 }
 
 #button3:hover {
-  transform: scale(1.1);
+  transform: scale(1.2);
 }
 
 #button4 {
@@ -120,5 +119,5 @@ h1:hover {
 }
 
 #button4:hover {
-  transform: scale(1.1);
+  transform: scale(1.2);
 }
